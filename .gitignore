@@ -1,0 +1,78 @@
+## User-specific files
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.idea/
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer Logs
+*.log
+
+## Windows Installer Files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## .NET build folders
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebug-AnyCPU/
+[Dd]ebug-x86/
+[Dd]ebug-x64/
+[Dd]ebug-AnyCPU/
+[Dd]Release/
+[Dd]Release-AnyCPU/
+[Dd]Release-x86/
+[Dd]Release-x64/
+
+## User-specific files
+.vs/
+.vscode/
+.idea/
+
+## .NET Core build directories
+bin/
+obj/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## ASP.NET temporary files
+__ASP/
+*.dbmdl
+
+## Rider project settings
+.idea/
+
+## User-specific files
+.vscode/
+
+## .NET Core 
+project.lock.json
+project.fragment.lock.json
+
+## npm
+node_modules/
+
+## ASP.NET Core
+project.json
+wwwroot/
+
+## Azure Functions
+.local/
